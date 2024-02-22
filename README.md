@@ -34,8 +34,6 @@
       <img src="./assetes/transferir.png" width="25px" height="25px" alt="logo-linkedin">
     </a>
   </p>
-  <p>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-  </p>
+ 
 
 
