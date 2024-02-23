@@ -32,7 +32,7 @@
   
   <p>
     <a href="https://www.linkedin.com/in/valeriadossantosnascimento/" target="_blank">
-      <img src="./assetes/logo-linkedin.png" width="25px" height="25px" alt="logo-linkedin" target="_blank">
+      <img src="./assetes/logo-linkedin.png" width="25px" height="25px" alt="logo-linkedin">
     </a>
   </p>
  
