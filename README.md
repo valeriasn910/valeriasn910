@@ -25,14 +25,14 @@
      Você que está visitando meu perfil, caso veja algo nos meus codigos que eu possa melhorar entre em contato.
     <br>
      A cada novo feedback estarei mais proxima do meu primeiro emprego. Você irá ajudar uma futura profissional.
-    <img src="./assetes/emoticons.jpg" width="30px" height="30px" />
+    <img src="./assetes/emoticon.jpg" width="30px" height="30px" />
   </p>
 
   <h4>Contato</h4>
   
   <p>
     <a href="https://www.linkedin.com/in/valeriadossantosnascimento/" target="_blank">
-      <img src="./assetes/transferir.png" width="25px" height="25px" alt="logo-linkedin">
+      <img src="./assetes/logo-linkedin.png" width="25px" height="25px" alt="logo-linkedin">
     </a>
   </p>
  
